@@ -1,4 +1,4 @@
-# UoW_ID_DSPL_Week7 - Classification & Clustering
+## Classification & Clustering
 
 ## Overview
 This project focuses on **Classification & Clustering** tasks using machine learning techniques. The project is divided into two parts:
